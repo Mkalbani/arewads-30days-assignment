@@ -47,4 +47,4 @@ point_1 = [2, 3]
 point_2 = [10, 8]
 
 Euclidian_distance = math.dist(point_1, point_2)
-print(Euclidian_distance)
+print(Euclidian_distance) #Ans = 9.433981132056603
